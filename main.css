@@ -1,0 +1,237 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.boshqrish{
+    width: 100%;
+    height: 3000px;
+    background-color: #F3F3F3;
+    /* border: 1px solid black; */
+}
+.birinchi{
+    width: 100%;
+height: 95px;
+opacity: 1;
+display: flex;
+justify-content: space-between;
+
+    background-color: #2D2D2D;
+}
+.logo1{
+    width: 132.9040985107422px;
+height: 77px;
+opacity: 1;
+margin-top: 10px;
+margin-left: 20px;
+
+
+}
+.log2{
+    width: 167px;
+height: 40px;
+opacity: 1;
+font-family: Montserrat;
+font-weight: 400;
+font-size: 14px;
+line-height: 142%;
+letter-spacing: 0%;
+color: #FFFFFF;
+padding-top: 29px;
+
+}
+.logo2{
+    width: 21px;
+height: 21px;
+opacity: 1;
+margin-top: 20px;
+margin-left: 30px;
+
+
+}
+.log3{
+    width: 76px;
+height: 20px;
+opacity: 1;
+margin-top: 20px;
+margin-left: 30px;
+font-family: Montserrat;
+font-weight: 400;
+font-size: 14px;
+line-height: 142%;
+letter-spacing: 0%;
+color: #FFFFFF;
+
+}
+.logo3{
+    width: 21px;
+height: 21px;
+opacity: 1;
+margin-top: 20px;
+margin-left: 30px;
+
+
+}
+.log4{
+    width: 144px;
+height: 34px;
+opacity: 1;
+margin-top: 27px;
+margin-left: 35px;
+color: #FFFFFF;
+font-family: Montserrat;
+font-weight: 400;
+font-size: 14px;
+line-height: 142%;
+letter-spacing: 0%;
+
+
+}
+.btn{
+    width: 205px;
+height: 43px;
+opacity: 1;
+border-width: 1px;
+border: 1px solid #FFBF1D;
+color: #FFFFFF;
+margin-top: 23px;
+margin-left: 40px;
+
+}
+.logo4{
+    width: 21px;
+height: 21px;
+opacity: 1;
+top: 27px;
+left: 593px;
+margin-top: 20px;
+margin-left: 30px;
+
+}
+.log5{
+    width: 145px;
+height: 75px;
+opacity: 1;
+font-family: Montserrat;
+font-weight: 500;
+font-size: 16px;
+line-height: 157%;
+letter-spacing: 0%;
+color: #FFFFFF;
+margin-top: 5px;
+margin-left: 20px;
+
+}
+.menuqtr{
+    width: 100%;
+height: 76px;
+opacity: 1;
+background-color: #F3F3F3;
+
+
+}
+
+.menu ul {
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.menu{
+    margin-top: 20px;
+}
+
+.menu li a {
+  display: inline-block;
+  padding: 6px 12px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  
+}
+
+.menu li a:hover {
+  color: #0077cc;
+}
+
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  width: 270px;
+  height: 30px;
+  border: 1px solid #2D2D2D99;
+  border-radius: 1px;
+  overflow: hidden;
+  background-color: #fff;
+  margin-left: 925px;
+  margin-top: -35px;
+}
+
+.search-bar input {
+  flex: 1;
+  border: none;
+  padding: 4px 8px;
+  font-size: 14px;
+  outline: none;
+}
+
+.search-bar button {
+  background: none;
+  border: none;
+  padding: 0 8px;
+  cursor: pointer;
+}
+
+.log6{
+ font-family: Montserrat;
+ font-weight: 400;
+ font-size: 12px;
+ line-height: 157%;
+ letter-spacing: 0%;
+ margin-top: 50px;
+
+}
+
+
+.log7{
+ font-family: PT Sans;
+ font-weight: 700;
+ font-size: 44px;
+ line-height: 142%;
+ letter-spacing: 0%;
+ margin-top: 50PX;
+
+}
+
+.ota{
+    width: 1170px;
+    height: 4000px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.box{
+    width: 370px;
+    height: 690px;
+    border: 1px solid black;
+}
+.box1{
+    width: 370px;
+    height: 690px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+.box2{
+    width: 370px;
+    height: 690px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
